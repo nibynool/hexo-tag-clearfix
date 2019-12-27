@@ -1,0 +1,12 @@
+{
+	"name": "hexo-tag-clearfix",
+	"description": "A plugin for the Hexo static site generator to add support for a clearfix tag",
+	"keywords": ["hexo", "tag", "plugin"],
+	"homepage": "https://alphageek.com.au/hexo-tag-clearfix",
+	"version": "0.1.0",
+	"main": "index",
+	"author": "Michael Lambert (https://alphageek.com.au)",
+	"dependencies": {
+		"hexo-inject": "^1.0.0"
+	}
+}
